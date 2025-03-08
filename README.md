@@ -1,1 +1,1 @@
-# HearO_
+# HearO: Your Communication Companion 
